@@ -1,0 +1,6 @@
+C:\Users\ybar\Desktop\RoboCamp-Prototype\Notey\Notey\bin\Debug\Notey.exe
+C:\Users\ybar\Desktop\RoboCamp-Prototype\Notey\Notey\bin\Debug\Notey.pdb
+C:\Users\ybar\Desktop\RoboCamp-Prototype\Notey\Notey\obj\x86\Debug\Notey.Properties.Resources.resources
+C:\Users\ybar\Desktop\RoboCamp-Prototype\Notey\Notey\obj\x86\Debug\Notey.csproj.GenerateResource.Cache
+C:\Users\ybar\Desktop\RoboCamp-Prototype\Notey\Notey\obj\x86\Debug\Notey.exe
+C:\Users\ybar\Desktop\RoboCamp-Prototype\Notey\Notey\obj\x86\Debug\Notey.pdb

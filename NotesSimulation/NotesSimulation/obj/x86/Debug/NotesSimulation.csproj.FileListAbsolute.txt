@@ -1,0 +1,8 @@
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\bin\Debug\NotesSimulation.exe
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\bin\Debug\NotesSimulation.pdb
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\obj\x86\Debug\NotesSimulation.Properties.Resources.resources
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\obj\x86\Debug\NotesSimulation.csproj.GenerateResource.Cache
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\obj\x86\Debug\NotesSimulation.exe
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\obj\x86\Debug\NotesSimulation.pdb
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\obj\x86\Debug\NotesSimulation.NoteSimulator.resources
+C:\Users\ybar\Desktop\RoboCamp-Prototype\NotesSimulation\NotesSimulation\obj\x86\Debug\NotesSimulation.csprojResolveAssemblyReference.cache
